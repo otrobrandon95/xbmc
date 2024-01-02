@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="metadata.tvshows.themoviedb.org.python"
-  name="TMDb TV Shows"
+  name="TMDb TV Shows 2"
   version="1.6.0"
   provider-name="Team Kodi">
   <requires>
